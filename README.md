@@ -1,1 +1,0 @@
-# SinglepageAplication-Listing
